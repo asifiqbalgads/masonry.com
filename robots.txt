@@ -1,0 +1,3 @@
+# Design concept — keep search engines away from the demo.
+User-agent: *
+Disallow: /
