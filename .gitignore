@@ -1,0 +1,7 @@
+# Working scratch — downloaded research assets (source WebPs are in assets/images)
+image-search/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
